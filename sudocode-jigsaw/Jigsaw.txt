@@ -1,0 +1,23 @@
+Jigsaw
+------
+
+Team Name:
+
+Team Members:
+-------------
+Arnav Jain
+Abhinav Jain
+Abhinav Aggarwalla
+Arun Patro
+
+Project Files:
+--------------
+jigsaw.cpp
+
+INSTRUCTIONS:
+------------
+1.Put all the images in the main folder where the code is. 
+
+2. The output will be generated in output.txt .
+
+

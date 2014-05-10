@@ -1,0 +1,14 @@
+10
+0 0 RT B B B B B B RT
+0 0 B 0 0 0 0 0 0 B
+0 0 B 0 0 0 0 0 0 B
+0 0 RT B G B B RT 0 B
+0 0 0 0 0 0 0 B 0 B
+RT B B G B B B B B RT
+B 0 0 0 0 0 0 B 0 0
+B 0 0 BSR B B B R 0 0
+B 0 0 0 0 0 0 B 0 0
+RT B G B G B B RT 0 0
+2
+5
+5
